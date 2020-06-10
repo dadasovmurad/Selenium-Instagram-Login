@@ -1,0 +1,13 @@
+C:\Users\MuradPc\source\repos\Instagram Login Selenium\Instagram Login Selenium\bin\Debug\Instagram Login Selenium.exe.config
+C:\Users\MuradPc\source\repos\Instagram Login Selenium\Instagram Login Selenium\bin\Debug\Instagram Login Selenium.exe
+C:\Users\MuradPc\source\repos\Instagram Login Selenium\Instagram Login Selenium\bin\Debug\Instagram Login Selenium.pdb
+C:\Users\MuradPc\source\repos\Instagram Login Selenium\Instagram Login Selenium\bin\Debug\WebDriver.dll
+C:\Users\MuradPc\source\repos\Instagram Login Selenium\Instagram Login Selenium\bin\Debug\WebDriver.xml
+C:\Users\MuradPc\source\repos\Instagram Login Selenium\Instagram Login Selenium\obj\Debug\Instagram Login Selenium.csprojAssemblyReference.cache
+C:\Users\MuradPc\source\repos\Instagram Login Selenium\Instagram Login Selenium\obj\Debug\Instagram_Login_Selenium.Form1.resources
+C:\Users\MuradPc\source\repos\Instagram Login Selenium\Instagram Login Selenium\obj\Debug\Instagram_Login_Selenium.Properties.Resources.resources
+C:\Users\MuradPc\source\repos\Instagram Login Selenium\Instagram Login Selenium\obj\Debug\Instagram Login Selenium.csproj.GenerateResource.cache
+C:\Users\MuradPc\source\repos\Instagram Login Selenium\Instagram Login Selenium\obj\Debug\Instagram Login Selenium.csproj.CoreCompileInputs.cache
+C:\Users\MuradPc\source\repos\Instagram Login Selenium\Instagram Login Selenium\obj\Debug\Instagram Login Selenium.csproj.CopyComplete
+C:\Users\MuradPc\source\repos\Instagram Login Selenium\Instagram Login Selenium\obj\Debug\Instagram Login Selenium.exe
+C:\Users\MuradPc\source\repos\Instagram Login Selenium\Instagram Login Selenium\obj\Debug\Instagram Login Selenium.pdb
